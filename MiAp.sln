@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9AC79D77-9773-48E1-9E6C-D17D6C4C8338}") = "MiAp", "MiAp.csproj", "{2B7777EF-751A-4837-ADB5-293B2E4C10F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B7777EF-751A-4837-ADB5-293B2E4C10F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7777EF-751A-4837-ADB5-293B2E4C10F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7777EF-751A-4837-ADB5-293B2E4C10F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7777EF-751A-4837-ADB5-293B2E4C10F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
